@@ -22,6 +22,8 @@ This project was generated using python version 3.8. This project uses a news AP
 
 4.Use ./start.sh to run the project on your browser
 
+# LIVE LINK
+https://mukto.herokuapp.com
 
 ## BEHAVIOUR DRIVEN DEVELOPMENT
 | GENERAL BEHAVIOUR | INPUT | OUTPUT|
