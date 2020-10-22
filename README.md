@@ -31,7 +31,7 @@ This project was generated using python version 3.8. This project uses a news AP
 
 ## TECHNOLOGIES USED
 1.Python3.8.5
-2.Flask 1.1.2
+.Flask 1.1.2
 
 ## BUGS
 The project at the moment does not have a search function
